@@ -1,0 +1,2 @@
+#pattern  filter=crypt diff=crypt
+conf/conf.json filter=crypt diff=crypt
